@@ -6,16 +6,6 @@
 
 ---
 
-<details open>
-<summary><h2>Updates</h2></summary>
-
-- [Oct '26] 🔥 [**Page Search API**](#): find the pages that answer each question in about a second, and send your LLM only those. *Cut 97% token cost on document question answering*; more accurate and faster than vector search.
-- [Aug '26] [**SDK**](#quickstart): **local** and **cloud** modes — one client to index, retrieve, and chat on your machine (with your own LLM API key) or on Cloud.
-- [Aug '26] ⚡ [**Flash Indexing**](#): fast tree index generation for text-based PDFs, now the default indexing method in SDK local mode.
-- [Scale to Millions of Documents](#): *File System* is a file-level tree indexing layer that lets the engine reason over an entire corpus, not just a single document.
-- [App Experience](#): a human-like document analysis agent for long professional documents.
-
-</details>
 
 ---
 
